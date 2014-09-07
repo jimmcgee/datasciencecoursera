@@ -1,4 +1,1 @@
-datasci
-=======
-
-Materials related to Hopkins Data Science program on Coursera
+Course materials for Johns Hopkins data science program
